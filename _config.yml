@@ -1,7 +1,7 @@
 name: vanstralen
 favicon: null
 layout_spectrum: 0.74488
-typography_spectrum: 1
+typography_spectrum: 0.46525
 title: vanstralen
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#fdfdfd'
+    - '#d0d0d0'
+    - '#a5a5a5'
+    - '#6c6c6c'
+    - '#454545'
   brandStrength: 0.8621224339585751
   lightness: 0.7963941877242178
   saturation: 0.6148966231849045
