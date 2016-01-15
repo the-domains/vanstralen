@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Some cartoons of yesteryear for selective enjoyment / derision. There's a plethora of religious content here, but, whatever."
-datePublished: '2016-01-15T23:05:37.943Z'
-dateModified: '2016-01-15T22:59:22.934Z'
+datePublished: '2016-01-15T23:05:40.389Z'
+dateModified: '2016-01-15T23:05:37.943Z'
 title: Some Random Favourites.
 author: []
 sourcePath: _posts/2015-12-31-some-random-favourites.md
