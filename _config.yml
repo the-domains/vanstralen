@@ -1,20 +1,4 @@
-name: vanstralen
-favicon: null
-layout_spectrum: 0.99935
 typography_spectrum: 0.47373
-title: vanstralen
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#fdfdfd'
@@ -26,4 +10,21 @@ color:
   lightness: 0
   saturation: 0
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.99935
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: vanstralen
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: vanstralen
+description: random things
 purpose: []
